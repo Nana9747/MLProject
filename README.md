@@ -1,1 +1,1 @@
-## End to end ML Projects
+## End to end ML Projects from scratch
